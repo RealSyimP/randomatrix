@@ -1,1 +1,2 @@
 # randomatrix
+出力のサイズによってtextboxの大きさを変えてください
